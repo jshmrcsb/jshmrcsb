@@ -14,7 +14,7 @@
 ### 👋 About Me
 
 - 🎓 BSIT student at **Saint Louis University**, expected to graduate in **2027**
-- 🧪 Interested in **Quality Assurance and manual testing** with focus on bug identification and reporting
+- 🧪 Interested in **Quality Assurance and manual testing**, with a focus on manual debugging, bug identification, and reporting
 - 💻 Strong foundation in **UI/UX design and spec review**, with attention to usability and user-centered workflows
 - 🤖 Exploring **AI-assisted QA workflows** to support test planning, bug analysis, and documentation
 - 🔧 Building skills in **Selenium** for automated UI testing and exploratory QA support
@@ -37,12 +37,12 @@
 ### QA & Testing
 
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-2F80ED?style=flat)
-![Exploratory Testing](https://img.shields.io/badge/Exploratory%20Testing-6C63FF?style=flat)
+![Manual Debugging](https://img.shields.io/badge/Manual%20Debugging-6C63FF?style=flat)
 ![Bug Reporting](https://img.shields.io/badge/Bug%20Reporting-D32F2F?style=flat)
 ![UI/UX Review](https://img.shields.io/badge/UI%2FUX%20Review-FF6B6B?style=flat)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-> Currently strengthening my QA foundation through manual testing, UI/UX validation, and AI-assisted testing workflows.
+> Currently strengthening my QA foundation through manual debugging, functional testing, UI/UX validation, and AI-assisted testing workflows.
 
 ### Web Development & Design
 
@@ -121,16 +121,39 @@ SunTrace is an AI-assisted decision-support system for solar feasibility and roo
 
 ## ⭐ Projects
 
-### [SunTrace: AI-Assisted Solar Provider Decision-Support System](https://github.com/jshmrcsb)
+### [Grantify — Web-Based Internship Aggregator](https://github.com/jshmrcsb/Grantify-Web-based-Internship-Aggregator)
 
-A capstone project focused on improving solar feasibility analysis and rooftop planning through AI-assisted decision support.
+A web-based platform for organizing and presenting internship opportunities in one accessible application.
 
-**Focus areas:**
+**QA and development focus:**
 
-- Manual and exploratory testing
-- UI/UX validation and requirement review
-- Defect documentation and reporting
-- Selenium-assisted automated UI testing
+- Performed manual debugging of project features and workflows
+- Checked functionality and user flows for issues
+- Reviewed usability and identified areas for improvement
+
+---
+
+### [Custodian Borrowing System](https://github.com/jshmrcsb/Custodian-Borrowing-System)
+
+A system for managing borrowing records, items, and related user workflows.
+
+**QA and development focus:**
+
+- Performed manual debugging of borrowing and record-management workflows
+- Checked CRUD functionality and system behavior
+- Identified issues affecting usability and user experience
+
+---
+
+### [MerryLift — Carpooling Platform](https://github.com/jshmrcsb/MerryLift-Carpooling-Platform)
+
+A web-based carpooling platform designed to support shared transportation coordination.
+
+**QA and development focus:**
+
+- Performed manual debugging of core web application workflows
+- Checked functionality and user interactions for issues
+- Reviewed usability and UI/UX concerns
 
 ---
 
@@ -148,7 +171,7 @@ SunTrace explores how AI-assisted technology can support solar feasibility analy
 
 My current QA interests include:
 
-- Manual software testing
+- Manual software testing and debugging
 - Test case creation and execution
 - Bug identification and documentation
 - Functional and usability testing
@@ -157,13 +180,13 @@ My current QA interests include:
 - Selenium-assisted testing
 - Improving testing efficiency through AI-supported analysis
 
-I am currently strengthening my automation skills while continuing to build a strong foundation in manual testing and software quality assurance.
+Most of my project experience has involved manually checking features, reproducing issues, debugging workflows, and documenting problems for improvement. I am currently strengthening my automation skills while continuing to build a strong foundation in manual testing and software quality assurance.
 
 ---
 
 ## 📌 Current Goals
 
-- Deepen my manual testing and QA practices
+- Deepen my manual testing and debugging practices
 - Incorporate Selenium into selected testing workflows
 - Learn more about test automation with AI assistance
 - Improve my web development skills using JavaScript, TypeScript, and PHP
