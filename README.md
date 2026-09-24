@@ -72,12 +72,10 @@
       <b>Introduction to Modern AI</b><br>
       Cisco Networking Academy<br>
       Issued Sep 2026<br>
-      Credential ID D9110542-a9f1-42dd-a21a-83c8d66fc849
+      Credential ID: D9110542-a9f1-42dd-a21a-83c8d66fc849
     </td>
   </tr>
 </table>
-
-<hr>
 
 <table>
   <tr>
@@ -88,15 +86,10 @@
       <b>Java (Basic)</b><br>
       HackerRank<br>
       Issued Sep 2026<br>
-      Credential ID 65E9C663D3EE
-    </td>
-    <td valign="top" align="right">
-      <a href="#"><img src="https://img.shields.io/badge/Show%20credential-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Show credential" /></a>
+      Credential ID: 65E9C663D3EE
     </td>
   </tr>
 </table>
-
-<hr>
 
 <table>
   <tr>
@@ -107,10 +100,7 @@
       <b>SQL (Intermediate)</b><br>
       HackerRank<br>
       Issued Sep 2026<br>
-      Credential ID F75A1EF432EC
-    </td>
-    <td valign="top" align="right">
-      <a href="#"><img src="https://img.shields.io/badge/Show%20credential-000000?style=for-the-badge&logo=hackerrank&logoColor=white" alt="Show credential" /></a>
+      Credential ID: F75A1EF432EC
     </td>
   </tr>
 </table>
