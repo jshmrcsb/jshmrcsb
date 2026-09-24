@@ -119,17 +119,17 @@ SunTrace is an AI-assisted decision-support system for solar feasibility and roo
 
 ---
 
-## ⭐ Projects
+## ⭐ Featured Projects
 
 ### [Grantify — Web-Based Internship Aggregator](https://github.com/jshmrcsb/Grantify-Web-based-Internship-Aggregator)
 
 A web-based platform for organizing and presenting internship opportunities in one accessible application.
 
-**QA and development focus:**
+**Focus areas:**
 
-- Performed manual debugging of project features and workflows
-- Checked functionality and user flows for issues
-- Reviewed usability and identified areas for improvement
+- Manual debugging of project features and workflows
+- Functional validation and issue checking
+- Usability review and improvement recommendations
 
 ---
 
@@ -137,11 +137,11 @@ A web-based platform for organizing and presenting internship opportunities in o
 
 A system for managing borrowing records, items, and related user workflows.
 
-**QA and development focus:**
+**Focus areas:**
 
-- Performed manual debugging of borrowing and record-management workflows
-- Checked CRUD functionality and system behavior
-- Identified issues affecting usability and user experience
+- Manual debugging of CRUD workflows and record-management features
+- Validation of system behavior and issue identification
+- Usability and user experience monitoring
 
 ---
 
@@ -149,11 +149,11 @@ A system for managing borrowing records, items, and related user workflows.
 
 A web-based carpooling platform designed to support shared transportation coordination.
 
-**QA and development focus:**
+**Focus areas:**
 
-- Performed manual debugging of core web application workflows
-- Checked functionality and user interactions for issues
-- Reviewed usability and UI/UX concerns
+- Manual debugging of core web application workflows
+- Functional testing and issue identification
+- UI/UX review and quality validation
 
 ---
 
