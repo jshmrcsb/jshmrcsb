@@ -65,42 +65,39 @@
 
 <table>
   <tr>
-    <td valign="top" width="80">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Cisco_logo.svg" width="54" height="54" alt="Cisco" />
+    <td valign="top" width="90">
+      <img src="https://www.netacad.com/p/ff9e491c-49be-4734-803e-a79e6e83dab1/badges/badge-images/cb15538f-9d14-4957-8555-e7f25cec2627.png" width="64" height="64" alt="Cisco" />
     </td>
     <td>
       <b>Introduction to Modern AI</b><br>
       Cisco Networking Academy<br>
-      Issued Sep 2026<br>
-      Credential ID: D9110542-a9f1-42dd-a21a-83c8d66fc849
+      Issued Sep 2026
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td valign="top" width="80">
-      <div style="width:54px; height:54px; background:#0b0f14; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:30px;">H</div>
+    <td valign="top" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HackerRank_Icon-1000px.png" width="64" height="64" alt="HackerRank" />
     </td>
     <td>
       <b>Java (Basic)</b><br>
       HackerRank<br>
-      Issued Sep 2026<br>
-      Credential ID: 65E9C663D3EE
+      Issued Sep 2026
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td valign="top" width="80">
-      <div style="width:54px; height:54px; background:#0b0f14; border-radius:10px; display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:30px;">H</div>
+    <td valign="top" width="90">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HackerRank_Icon-1000px.png" width="64" height="64" alt="HackerRank" />
     </td>
     <td>
       <b>SQL (Intermediate)</b><br>
       HackerRank<br>
-      Issued Sep 2026<br>
-      Credential ID: F75A1EF432EC
+      Issued Sep 2026
     </td>
   </tr>
 </table>
