@@ -79,7 +79,7 @@
 <table>
   <tr>
     <td valign="top" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HackerRank_Icon-1000px.png" width="64" height="64" alt="HackerRank" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="64" height="64" alt="HackerRank" />
     </td>
     <td>
       <b>Java (Basic)</b><br>
@@ -92,7 +92,7 @@
 <table>
   <tr>
     <td valign="top" width="90">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/HackerRank_Icon-1000px.png" width="64" height="64" alt="HackerRank" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="64" height="64" alt="HackerRank" />
     </td>
     <td>
       <b>SQL (Intermediate)</b><br>
