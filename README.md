@@ -74,6 +74,19 @@
 <table>
   <tr>
     <td valign="top" width="90">
+      <img src="https://images.credly.com/size/680x680/images/474a03c6-b5e1-44df-b313-adf0fed6c531/blob" width="64" height="64" alt="Cisco" />
+    </td>
+    <td>
+      <b>IT Customer Support Basics</b><br>
+      Cisco Networking Academy<br>
+      Issued Oct 2026
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top" width="90">
       <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled" width="64" height="64" alt="HackerRank" />
     </td>
     <td>
@@ -180,7 +193,7 @@ My current QA interests include:
 - Selenium-assisted testing
 - Improving testing efficiency through AI-supported analysis
 
-Most of my project experience has involved manually checking features, reproducing issues, debugging workflows, and documenting problems for improvement. I am currently strengthening my automation skills while continuing to build a strong foundation in manual testing and software quality assurance.
+Most of my project experience has involved manually checking features, reproducing issues, debugging workflows, and documenting problems for improvement. I am currently strengthening my automation skills through hands-on practice and AI-assisted QA workflows.
 
 ---
 
